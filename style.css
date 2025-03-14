@@ -100,3 +100,7 @@ input{
     border: none;
     font-size: 15px;
 }
+
+#erro{
+    padding-top: 20px;
+}

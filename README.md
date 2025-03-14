@@ -9,13 +9,22 @@ Neste projeto, criei uma interface de login moderna, com um campo para usuário 
 A implementação dessa página segue boas práticas, garantindo uma interface limpa e organizada, que pode ser facilmente integrada a um sistema de autenticação backend no futuro.
 
 
-
-
-
-
-
-
-
 ![Pagina de login](./images/Capturar.JPG)
 ![icone html](./images/icons8-html-5-50.png)
 ![icone css](./images/icons8-css-50.png)
+
+## atualizações 1.1
+
+foram desenvolvidas novas paginas para redirecionamento, uma de cadastro e uma para feedback do cadastro.
+
+✅ foram desenvolvidas novas usabilidades com JavaScript como validação de nome, email e senha!
+
+![Pagina de login](./images/helloworld_V2.JPG)
+![Pagina de login](./images/feedback.JPG)
+![icone html](./images/icons8-html-5-50.png)
+![icone css](./images/icons8-css-50.png)
+![icone css](./images/icons8-javascript-50.png)
+
+
+
+

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+    <title>login page</title>
+</head>
+<body>
+    <header>
+        <div id="title">
+            <h1>HelloWorld</h1>
+            <h1></h1>
+        </div>
+
+        <ul>
+            <a href="index.html"><li>Início</li></a>
+            <a href="#"><li>Serviços</li></a>
+            <a href="#"><li>Sobre</li></a>
+            <a href="#"><li>Contato</li></a>
+            <a href="index.html" id="inscreva-se-btn"><li>Entrar</li></a>
+        </ul>
+    </header>
+
+    <main>
+        <aside>
+            <h2><span>Inscreva-se</span></h2>
+            <h2>na Helloworld</h2>
+            <p>
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+            </p>
+            
+            <form>
+                <input type="text" placeholder="Nome completo" oninput="validarNome(event)">
+                <input type="text" maxlength="14" placeholder="CPF" oninput="formatarCPF(this)">
+                <input type="email" placeholder="E-mail">
+                <input type="password" id="senha" placeholder="Digite sua senha" oninput="validarSenha()">
+    <div id="erro" style="color: red; display: none;">A senha deve ter pelo menos 8 caracteres, incluindo uma letra maiúscula, um número e um caractere especial.</div>
+                <input type="submit" value="cadastre-se" onclick="redirecionar(); return false;">
+            </form>
+        </aside>
+
+        <article>
+            
+        </article>
+    </main>
+    <script src="../script.js"></script>
+</body>
+
+</html>
