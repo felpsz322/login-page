@@ -19,11 +19,11 @@ foram desenvolvidas novas paginas para redirecionamento, uma de cadastro e uma p
 
 ✅ foram desenvolvidas novas usabilidades com JavaScript como validação de nome, email e senha!
 
-![Pagina de login](./images/helloworld_V2.JPG)
-![Pagina de login](./images/feedback.JPG)
+![imagem](./images/helloworld_V2.JPG)
+![imagem](./images/feedback.JPG)
 ![icone html](./images/icons8-html-5-50.png)
 ![icone css](./images/icons8-css-50.png)
-![icone css](./images/icons8-javascript-50.png)
+![icone JS](./images/icons8-javascript-50.png)
 
 
 
